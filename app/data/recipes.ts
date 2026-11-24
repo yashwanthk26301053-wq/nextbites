@@ -20,7 +20,7 @@ export const recipes: Recipe[] = [
   },
   {
     id: 3,
-    name: "Cheesy Homemade Alfredo Pasta",
+    name: "Pasta Alfredo",
     cuisine: "Italian",
     minutes: 120,
   },

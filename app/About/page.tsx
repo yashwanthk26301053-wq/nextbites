@@ -1,4 +1,4 @@
-export default function renderSomething() {
+export default function renderAboutPage() {
   return (
     <div>
       <h1>
