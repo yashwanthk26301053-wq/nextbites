@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 export function Navbar() {
   return (
     <nav>
-      <Link href="../Home">Home</Link>
+      <Link href="../Sub-Home">Sub-Home</Link>
       <hr />
       <Link href="../About">About</Link>
     </nav>

@@ -1,6 +1,7 @@
+
 import { Recipe } from "../data/recipes";
 
-export default function renderRecipe({ recipe }: { recipe: Recipe }) {
+export default function RecipeCard({ recipe }: { recipe: Recipe }) {
   return (
     <div>
       <br />
